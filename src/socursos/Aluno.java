@@ -6,5 +6,6 @@ public class Aluno {
     public String emailAluno;
     public int senha;
     public String cursosMatriculados;
+    public String telefone;
 
 }
